@@ -1,0 +1,6 @@
+E:\C#\循环\循环\bin\Debug\循环.exe.config
+E:\C#\循环\循环\bin\Debug\循环.exe
+E:\C#\循环\循环\bin\Debug\循环.pdb
+E:\C#\循环\循环\obj\Debug\循环.exe
+E:\C#\循环\循环\obj\Debug\循环.pdb
+E:\C#\循环\循环\obj\Debug\循环.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\C#\判断\判断\obj\Debug\判断.csprojResolveAssemblyReference.cache
+E:\C#\判断\判断\bin\Debug\判断.exe.config
+E:\C#\判断\判断\bin\Debug\判断.exe
+E:\C#\判断\判断\bin\Debug\判断.pdb
+E:\C#\判断\判断\obj\Debug\判断.exe
+E:\C#\判断\判断\obj\Debug\判断.pdb

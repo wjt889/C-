@@ -1,0 +1,6 @@
+E:\C#\封装1\封装1\bin\Debug\封装1.exe.config
+E:\C#\封装1\封装1\bin\Debug\封装1.exe
+E:\C#\封装1\封装1\bin\Debug\封装1.pdb
+E:\C#\封装1\封装1\obj\Debug\封装1.csprojResolveAssemblyReference.cache
+E:\C#\封装1\封装1\obj\Debug\封装1.exe
+E:\C#\封装1\封装1\obj\Debug\封装1.pdb

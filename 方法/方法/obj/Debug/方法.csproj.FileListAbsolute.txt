@@ -1,0 +1,6 @@
+E:\C#\方法\方法\bin\Debug\方法.exe.config
+E:\C#\方法\方法\bin\Debug\方法.exe
+E:\C#\方法\方法\bin\Debug\方法.pdb
+E:\C#\方法\方法\obj\Debug\方法.csprojResolveAssemblyReference.cache
+E:\C#\方法\方法\obj\Debug\方法.exe
+E:\C#\方法\方法\obj\Debug\方法.pdb
