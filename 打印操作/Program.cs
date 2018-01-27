@@ -14,7 +14,7 @@ namespace 打印操作
         }
         void Print(Document doc)
         {
-            doc.Init();
+            doc.Init(); 
             doc.SetParameters();
             doc.Print();
         }
